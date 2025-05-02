@@ -78,3 +78,5 @@ wolframalpha==4.1.1
 wrapt==1.12.1
 xml-python==0.3.5
 xmltodict==0.12.0
+ultralytics
+YOLO
